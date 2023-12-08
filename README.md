@@ -61,6 +61,7 @@ This involves partitioning the unlabeled data into two subsets (one as a labeled
 | Synthia →  Cityscapes  | deeplab-r101   | 52.3  [DTST](https://github.com/DZhaoXd/DT-ST)   | 59.2                |`training_logs/seco_synthia` |
 | GTA →  BDD100K         | deeplab-r101   | 37.9  [SFOCDA](https://arxiv.org/abs/2106.03422) | 44.3                | `training_logs/seco_bdd`|
 
+This table shows the source-free setting, which is more competitive than the data in Tables 1 and 2 in the paper.
 More adaptation scripts will be compiled later.
 
 ## :speech_balloon: License
