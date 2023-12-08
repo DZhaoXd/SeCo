@@ -63,6 +63,14 @@ This involves partitioning the unlabeled data into two subsets (one as labeled s
 
 More adaptation scripts will be compiled later.
 
+#### Cityscapes
+| Model | Semantic branch                                                                           | mIoU of Semantic branch | mIoU of SSA |
+|:------|:------------------------------------------------------------------------------------------|:------------------------|:-------------------|
+| SSA   | [Segformer-B0](https://huggingface.co/nvidia/segformer-b0-finetuned-cityscapes-1024-1024) | 52.52                   | 55.14              |
+| SSA   | [Segformer-B2](https://huggingface.co/nvidia/segformer-b2-finetuned-cityscapes-1024-1024)                                                                          | 59.76                   | 62.25              |
+| SSA   | [Segformer-B5](https://huggingface.co/nvidia/segformer-b5-finetuned-cityscapes-1024-1024) | 71.67                   | 72.99              |
+
+
 ## :speech_balloon: License
 Code is released for non-commercial and research purposes **only**. For commercial purposes, please contact the authors.
 
