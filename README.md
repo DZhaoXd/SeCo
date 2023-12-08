@@ -5,10 +5,10 @@ Semantic Connectivity-Driven Pseudo-labeling for Cross-domain Segmentation.
 
 
 ## :speech_balloon: Pixel-driven PL. v.s. Connectivity-driven PL
-![image-20210228153142126](./images/intro.jpeg)
+![](./images/intro.jpeg)
 
 ## :speech_balloon: Pipeline
-![image-20210228153142126](./images/Pipeline.png)
+![](./images/Pipeline.png)
 
 ## :speech_balloon: Requirements
 
