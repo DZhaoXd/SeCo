@@ -25,10 +25,7 @@ These pseudo-labels can then be exploited and embedded into existing unsupervise
 
 ## :speech_balloon: Pixel Semantic Aggregation
 
-First, you can obtain pixel-level pseudo-labels by pixel thresholding (e.g. https://github.com/yzou2/cbst) from \ 
-	a UDA method (e.g. ProDA https://github.com/microsoft/ProDA ) 
-	or a source-free UDA method (e.g. DTST https://github.com/DZhaoXd/DT-ST), \
-	or a UDG method (e.g. SHADE https://github.com/HeliosZhao/SHADE).
+First, you can obtain pixel-level pseudo-labels by pixel thresholding (e.g. https://github.com/yzou2/cbst) from a UDA method (e.g. ProDA https://github.com/microsoft/ProDA ) or a source-free UDA method (e.g. DTST https://github.com/DZhaoXd/DT-ST), or a UDG method (e.g. SHADE https://github.com/HeliosZhao/SHADE).
 And organize them in the following format.
 ```
 """
