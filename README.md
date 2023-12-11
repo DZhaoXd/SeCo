@@ -55,9 +55,9 @@ This involves partitioning the unlabeled data into two subsets (one as a labeled
 ## 
 |    Adaptation task     | model          | Before adaptation                                | After adaptation    | Training logs       |
 |:-----------------------|:---------------|:-------------------------------------------------| :-------------------|:-------------------|
-| GTA →  Cityscapes      | deeplab-r101   | 55.1  [DTST](https://github.com/DZhaoXd/DT-ST)   | 64.6                |`training_logs/seco_gta`|
-| Synthia →  Cityscapes  | deeplab-r101   | 52.3  [DTST](https://github.com/DZhaoXd/DT-ST)   | 59.2                |`training_logs/seco_synthia` |
-| GTA →  BDD100K         | deeplab-r101   | 37.9  [SFOCDA](https://arxiv.org/abs/2106.03422) | 44.3                | `training_logs/seco_bdd`|
+| GTA →  Cityscapes      | deeplab-r101   | 55.1  [DTST](https://github.com/DZhaoXd/DT-ST)   | 64.6                |[`training_logs/seco_gta`](https://github.com/DZhaoXd/SeCo/blob/main/training_logs/seco_gta.log)|
+| Synthia →  Cityscapes  | deeplab-r101   | 52.3  [DTST](https://github.com/DZhaoXd/DT-ST)   | 59.2                |[`training_logs/seco_synthia`](https://github.com/DZhaoXd/SeCo/blob/main/training_logs/seco_synthia.log) |
+| GTA →  BDD100K         | deeplab-r101   | 37.9  [SFOCDA](https://arxiv.org/abs/2106.03422) | 44.3                |[ `training_logs/seco_bdd`](https://github.com/DZhaoXd/SeCo/blob/main/training_logs/seco_bdd.log)|
 
 This table shows the source-free setting, which is more competitive than the data in Tables 1 and 2 in the paper.
 More adaptation scripts will be compiled later.
