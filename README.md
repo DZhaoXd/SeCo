@@ -72,7 +72,7 @@ Many thanks to those wonderful work and the open-source code.
 - [Segformer](https://arxiv.org/abs/2105.15203)
 - [Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything)
 - [ProDA](https://github.com/microsoft/ProDA)
-
+- [BETA](https://github.com/xyupeng/BETA)
 ## :speech_balloon: Citation
 
 If you use this code for your research, please cite our paper:
