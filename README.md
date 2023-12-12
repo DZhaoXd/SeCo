@@ -1,7 +1,7 @@
 # SeCo
 Semantic Connectivity-Driven Pseudo-labeling for Cross-domain Segmentation.
 
-:notebook_with_decorative_cover: For more information, please see our paper at **[`ARXIV`](https://www.igarss2022.org/default.php)**
+:notebook_with_decorative_cover: For more information, please see our paper at **[`ARXIV`](http://arxiv.org/abs/2312.06331)**
 
 
 ## :speech_balloon: Pixel-driven PL. v.s. Connectivity-driven PL
@@ -76,3 +76,11 @@ Many thanks to those wonderful work and the open-source code.
 ## :speech_balloon: Citation
 
 If you use this code for your research, please cite our paper:
+@misc{zhao2023semantic,
+      title={Semantic Connectivity-Driven Pseudo-labeling for Cross-domain Segmentation}, 
+      author={Dong Zhao and Ruizhi Yang and Shuang Wang and Qi Zang and Yang Hu and Licheng Jiao and Nicu Sebe and Zhun Zhong},
+      year={2023},
+      eprint={2312.06331},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
