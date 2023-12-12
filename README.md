@@ -60,7 +60,7 @@ This involves partitioning the unlabeled data into two subsets (one as a labeled
 | GTA →  BDD100K         | deeplab-r101   | 37.9  [SFOCDA](https://arxiv.org/abs/2106.03422) | 44.3                |[ `training_logs/seco_bdd`](https://github.com/DZhaoXd/SeCo/blob/main/training_logs/seco_bdd.log)|
 
 This table shows the source-free setting, which is more competitive than the report results in Tables 1 and 2 in the paper.
-More adaptation scripts will be compiled later.
+More adaptation scripts will be updated later.
 
 ## :speech_balloon: License
 Code is released for non-commercial and research purposes **only**. For commercial purposes, please contact the authors.
