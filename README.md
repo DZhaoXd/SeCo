@@ -76,7 +76,7 @@ Many thanks to those wonderful work and the open-source code.
 ## :speech_balloon: Citation
 
 If you use this code for your research, please cite our paper:
-
+```bibtex
 @misc{zhao2023semantic,
       title={Semantic Connectivity-Driven Pseudo-labeling for Cross-domain Segmentation}, 
       author={Dong Zhao and Ruizhi Yang and Shuang Wang and Qi Zang and Yang Hu and Licheng Jiao and Nicu Sebe and Zhun Zhong},
@@ -85,3 +85,5 @@ If you use this code for your research, please cite our paper:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
+
